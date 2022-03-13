@@ -96,7 +96,7 @@ or
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```bash
-ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+ERROR: Permission to YouCodeSchool/hacktoberfest.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 ```
