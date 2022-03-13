@@ -44,7 +44,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/YouCodeSchool/Hacktoberfest-practice#hacktoberfest-youcode-community). Then, add your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/YouCodeSchool/Hacktoberfest/blob/main/README.md#hacktoberfest-youcode-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
