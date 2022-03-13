@@ -4,7 +4,7 @@
 
 # Hacktoberfest
 
-What is it? learn more [here](https://hacktoberfest.digitalocean.com/)
+What is hacktoberfest? learn more [here](https://hacktoberfest.digitalocean.com/)
 
 # Hacktoberfest Practice Pull Requests
 
