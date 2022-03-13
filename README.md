@@ -18,7 +18,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 2. Make any changes in your forked repository.
 3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
-You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
+You can ask questions by raising an [issue](https://github.com/YouCodeSchool/hacktoberfest/issues/new).
 
 ## How to clone the repository and make changes locally
 
@@ -44,7 +44,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/YouCodeSchool/Hacktoberfest/blob/main/README.md#hacktoberfest-youcode-community). Then, add your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/YouCodeSchool/Hacktoberfest#hacktoberfest-youcode-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
